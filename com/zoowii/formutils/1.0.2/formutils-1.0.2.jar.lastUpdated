@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Mar 31 19:58:15 CST 2015
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1427802494801
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1427802493592
+http\://repo.maven.apache.org/maven2/.lastUpdated=1427802501833
+file\:////Users/zoowii/Projects/superid-webapi/superid-web-utils/local-maven-repo/.error=
+https\://repo.spring.io/libs-release/.error=
+http\://scala-tools.org/repo-releases/.lastUpdated=1427802499538
+http\://repo.maven.apache.org/maven2/.error=
+http\://scala-tools.org/repo-releases/.error=
+https\://repo.spring.io/libs-release/.lastUpdated=1427802495806
+file\:////Users/zoowii/Projects/superid-webapi/superid-web-utils/local-maven-repo/.lastUpdated=1427803095592
+http\://repository.jboss.org/nexus/content/groups/public/.error=

@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Mar 31 20:04:35 CST 2015
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1427802483389
+file\:///${project.parent.basedir}/local-maven-repo/.error=Could not transfer artifact com.zoowii\:formutils\:pom\:1.0.2 from/to local-maven-repo (file\:///${project.parent.basedir}/local-maven-repo)\: Repository path /${project.parent.basedir}/local-maven-repo does not exist, and cannot be created.
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1427802482017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1427802492162
+file\:////Users/zoowii/Projects/superid-webapi/superid-web-utils/local-maven-repo/.error=
+https\://repo.spring.io/libs-release/.error=
+http\://scala-tools.org/repo-releases/.lastUpdated=1427802491132
+http\://scala-tools.org/repo-releases/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://repo.spring.io/libs-release/.lastUpdated=1427802484420
+default-file\:///${project.parent.basedir}/local-maven-repo/.lastUpdated=1427803475890
+file\:////Users/zoowii/Projects/superid-webapi/superid-web-utils/local-maven-repo/.lastUpdated=1427803095375
+http\://repository.jboss.org/nexus/content/groups/public/.error=

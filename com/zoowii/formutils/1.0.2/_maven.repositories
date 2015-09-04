@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Mar 31 20:05:22 CST 2015
+formutils-1.0.2.pom>local-maven-repo=
+formutils-1.0.2.jar>local-maven-repo=
+formutils-1.0.2.pom>nexus=
+formutils-1.0.2.jar>nexus=
