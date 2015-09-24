@@ -1,7 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Sep 04 17:33:10 CST 2015
+#Fri Sep 25 00:37:56 CST 2015
 jpa-utils-core-1.9.21.jar>=
-jpa-utils-core-1.9.21.pom>local-maven-repo=
 jpa-utils-core-1.9.21-sources.jar>=
 jpa-utils-core-1.9.21.pom>=
 jpa-utils-core-1.9.21-javadoc.jar>=
