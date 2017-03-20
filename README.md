@@ -3,6 +3,7 @@
 ## repo url
 
 * https://raw.githubusercontent.com/zoowii/maven-repo/master
+* https://coding.net/u/zoowii/p/maven-repo/git/raw/master
 
 
 ## artifact url
