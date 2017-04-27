@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 27 21:01:25 CST 2017
+jpa-utils-ehcache-1.9.21u6.jar>=
+jpa-utils-ehcache-1.9.21u6-sources.jar>=
+jpa-utils-ehcache-1.9.21u6.pom>=
+jpa-utils-ehcache-1.9.21u6-javadoc.jar>=
