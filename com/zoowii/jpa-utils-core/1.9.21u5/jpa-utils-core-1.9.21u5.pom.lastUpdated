@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 13 23:20:00 CST 2017
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://jbig2-imageio.googlecode.com/svn/maven-repository/.error=Could not transfer artifact com.zoowii\:jpa-utils-core\:pom\:1.9.21u5 from/to jbig2.googlecode (https\://jbig2-imageio.googlecode.com/svn/maven-repository/)\: Connect to jbig2-imageio.googlecode.com\:443 [jbig2-imageio.googlecode.com/64.233.188.82] failed\: Connection timed out\: connect
+@default-jbig2.googlecode-https\://jbig2-imageio.googlecode.com/svn/maven-repository/.lastUpdated=1486999200231
+https\://coding.net/u/zoowii/p/maven-repo/git/raw/master/.lastUpdated=1486987925557
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1486987746659
