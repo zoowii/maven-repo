@@ -3,13 +3,14 @@
   <groupId>com.zoowii</groupId>
   <artifactId>jpa-utils</artifactId>
   <versioning>
-    <release>1.9.21u8</release>
+    <release>1.9.21u10</release>
     <versions>
       <version>1.9.21u6</version>
       <version>1.9.21u7</version>
       <version>1.9.21u8</version>
       <version>1.9.21u9</version>
+      <version>1.9.21u10</version>
     </versions>
-    <lastUpdated>20170909180541</lastUpdated>
+    <lastUpdated>20170910162657</lastUpdated>
   </versioning>
 </metadata>
