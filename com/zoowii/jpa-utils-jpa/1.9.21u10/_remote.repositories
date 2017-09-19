@@ -1,6 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Sep 11 00:27:12 CST 2017
-jpa-utils-jpa-1.9.21u10-javadoc.jar>=
-jpa-utils-jpa-1.9.21u10.pom>=
-jpa-utils-jpa-1.9.21u10-sources.jar>=
-jpa-utils-jpa-1.9.21u10.jar>=
+#Thu Sep 14 23:41:54 CST 2017
+jpa-utils-jpa-1.9.21u10.jar>zoowii-repo=
+jpa-utils-jpa-1.9.21u10.pom>zoowii-repo=
