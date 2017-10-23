@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.blocklinker</groupId>
+  <artifactId>chainsdk</artifactId>
+  <versioning>
+    <release>1.0.0-dev</release>
+    <versions>
+      <version>1.0.0-dev</version>
+    </versions>
+    <lastUpdated>20171023034741</lastUpdated>
+  </versioning>
+</metadata>
